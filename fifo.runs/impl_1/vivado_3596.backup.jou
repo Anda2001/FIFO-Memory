@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Nov 09 12:56:36 2022
+# Process ID: 3596
+# Current directory: D:/Faculta/IIIsem1/SCS/Lab/Lab 5/fifo/fifo.runs/impl_1
+# Command line: vivado.exe -log fifo_mem.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source fifo_mem.tcl -notrace
+# Log file: D:/Faculta/IIIsem1/SCS/Lab/Lab 5/fifo/fifo.runs/impl_1/fifo_mem.vdi
+# Journal file: D:/Faculta/IIIsem1/SCS/Lab/Lab 5/fifo/fifo.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source fifo_mem.tcl -notrace

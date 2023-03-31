@@ -1,0 +1,4 @@
+ERROR: Exception caught trying to open file D:\Faculta\IIIsem1\SCS\Lab\Lab 5\fifo\fifo.runs\impl_1/runme.log
+	Exception name: Error
+	Exception error code: 70
+	Exception message: Permission denied
